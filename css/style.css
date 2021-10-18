@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.twitter{
+
+width: 100%;
+
+min-height: 100vh;
+}
+.main_section{
+
+width: 50%;
+
+margin: auto;
+
+min-height: 100vh;
+
+display: flex;
+
+align-content: center;
+
+align-items: center;
+
+flex-direction: column;
+}
+.head_content{
+
+margin-top: 100px;
+
+margin-left: 80px;
+}
+.logo{
+
+text-align: center;
+
+font-size: 61px;
+}
+.logo i{
+
+color: #219EEE;
+}
+.head_content h1{
+
+font-size: 34px;
+
+font-family: 'Poppins', sans-serif;
+}
+.form{
+
+margin-top: 250px;
+
+width: 400px;
+}
+.form form{
+
+/* height: 100%; */
+
+margin-top: -228px;
+}
+.form form input{
+
+/* margin-top: -50px; */
+
+width: 110%;
+
+padding: 24px;
+
+border: none;
+
+border: 1px solid #dad7d7;
+
+background: #E9ECEF;
+
+margin: 10px;
+
+font-size: 20px;
+
+outline: none;
+
+font-family:  'Poppins', sans-serif;
+}
+.email{
+
+}
+.form form input#password{
+
+}
+.login{width: auto;}
+
+.main_section p{
+    
+/* text-decoration: none; */
+    
+margin-left: 75px;
+    
+margin-top: 15px;
+}
+.form form input[type="submit"]{
+    
+width: 490px;
+    
+background: #219EEE;
+    
+color: #fff;
+    
+font-size: 20px;
+}
+
+.main_section p a{
+    
+margin-left: 3;
+    
+text-decoration: none;
+    
+color: #219EEE;
+    
+font-size: 15px;
+    
+font-weight: bold;
+    
+/* margin-left: 30px; */
+}
+.abc:hover{
+    text-decoration: underline;
+}
+.xyz:hover{
+    text-decoration: underline;
+}
